@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+    background-color: $amarillo;
+    color: white;
+
+    
+
+    &__logo{
+        font-size: $x-large;   
+    }
+    &__item{
+        color: white;
+        text-decoration: none;
+        font-size:$large ;
+    }
+   
+}
+   

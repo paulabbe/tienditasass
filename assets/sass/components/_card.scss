@@ -1,0 +1,17 @@
+.card{
+    padding: 1em;
+    border: 2px solid $amarillo;
+    width: 100px;
+    text-align: center;
+    background-color: $violeta;
+    display: inline-block;
+    
+    &__titule{
+        font-size: $medium;
+    }
+    
+    &__article{
+        width: 200px;
+        
+    }
+}

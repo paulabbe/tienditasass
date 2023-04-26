@@ -1,0 +1,17 @@
+.footer{
+    background-color:$verdelect ;
+    padding: 1em;
+    color: white;
+    padding-right: 2em;
+    
+    &__box{
+       
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__itemd{
+        margin-left: auto;
+        padding: 9px;
+    }
+}
